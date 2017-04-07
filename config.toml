@@ -35,16 +35,6 @@ googleAnalytics = "UA-54080516-1"
     weight = 1
 
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/m45t3r"
-    weight = 2
-
-[[menu.main]]
-    name = "Contact"
-    url = "/page/contact/"
-    weight = 3
-
-[[menu.main]]
-    name = "About"
+    name = "About me"
     url = "/page/about/"
-    weight = 4
+    weight = 2
