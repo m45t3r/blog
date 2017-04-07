@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:m45t3r/m45t3r.github.io.git
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
+	url = https://github.com/jbub/ghostwriter
